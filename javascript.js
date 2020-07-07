@@ -6,11 +6,19 @@ function input() {
        
        case 2014: text="achhe din for sure";
        break;
+       case 2015: text="acche din for sure";
+       break;
+       case 2016: text="achhe din for sure";
+       break;
+        case 2017: text="achhe din for sure";
+            break;
+        case 2018: text="acche din for sure";
+            break;
        case 2019: text ="achhe din for sure";
        break;
        case 2020: text ="2020 is bad vibes mitro";
        break;
-       case 2002: text="let not talk about 2002 :)";
+       case 2002: text="let not talk about 2002 mitro";
        break;
        case 1947: text="We got independence, ofcourse achhe din";
        break;
