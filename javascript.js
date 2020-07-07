@@ -6,7 +6,7 @@ function input() {
        break;
        case 2015: text ="achhe din for sure";
        break;
-       case 2016: text ="achhe din for sure";
+        case 2016: text ="achhe din for sure";
        break;
        case 2017: text ="achhe din for sure";
        break;
