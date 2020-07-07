@@ -1,17 +1,10 @@
 function input() {
     var p = prompt('Enter a year mitron');
     var year = parseInt(p);
+    var text; 
     switch(year) {
-       case 2014: text ="achhe din for sure";
-       break;
-       case 2015: text ="achhe din for sure";
-       break;
-        case 2016: text ="achhe din for sure";
-       break;
-       case 2017: text ="achhe din for sure";
-       break;
-       case 2018: text ="achhe din for sure";
-       break;
+       case 2014: text="achhe din for sure";
+        break;
        case 2019: text ="achhe din for sure";
        break;
        case 2020: text ="2020 is bad vibes mitro";
