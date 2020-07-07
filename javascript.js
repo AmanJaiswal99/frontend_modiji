@@ -3,8 +3,10 @@ function input() {
     var year = parseInt(p);
     var text; 
     switch(year) {
+       case 2002: text="let not talk about 2002 :)";
+       break;
        case 2014: text="achhe din for sure";
-        break;
+       break;
        case 2019: text ="achhe din for sure";
        break;
        case 2020: text ="2020 is bad vibes mitro";
